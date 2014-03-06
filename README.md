@@ -10,13 +10,13 @@ Install the gems these scripts use with `bundle install`.
 
 First we need to gather all the public runs on RunKeeper for a city. This goes through the results page for the city and saves the URL for each page to a file.
 
-**Usage:** Update the URL and path for the RunKeeper results page to scrape and output location. Run the script with `ruby page-scrape.rb`.
+**Usage:** Update the URL and path for the RunKeeper results page to scrape and output location. Run the script with `ruby results-scrape.rb`.
 
 ### `routes-scrape.rb`
 
 Now that we have all the public pages' URLs, we need to extract the JSON embedded in the HTML on each page that contains the route the person followed during their run.
 
-**Usage:** Update the paths to where the data should be loaded and output. Run the script with `ruby js-scrape.rb`.
+**Usage:** Update the paths to where the data should be loaded and output. Run the script with `ruby routes-scrape.rb`.
 
 ### `generate-gpx.rb`
 
