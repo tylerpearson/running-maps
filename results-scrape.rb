@@ -23,7 +23,7 @@ route_ids = []
     route_ids << link
   end
 
-  # Sleep for a bit to be respecful of RunKeeper and act as a normal user would
+  # Sleep for a bit to be respectful of RunKeeper and act more like a normal user would
   sleep [1.1,2.2,3.3].sample
 end
 
