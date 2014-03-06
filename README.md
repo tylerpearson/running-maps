@@ -1,4 +1,4 @@
-# Scripts to generate maps of the most popular running routes in a city
+# Most popular running routes scripts
 
 ## Setup
 
