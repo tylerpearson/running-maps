@@ -26,7 +26,7 @@ Lastly, to load the data into QGIS, I formatted the scraped routes' JSON into a 
 
 ## Examples
 
-These scripts were used to gather the data needed to generate running maps for Chapel Hill, Raleigh, and Durham. I created the maps in QGIS, but the data could easily be used anywhere else (for example, loaded on an interactive map).
+These scripts were used to gather the data needed to generate running maps for Chapel Hill, Raleigh, and Durham. I created the maps in QGIS, but the data could easily be used anywhere else (for example, [loaded on an interactive map](https://github.com/tylerpearson/where-people-run-triangle-data)).
 
 - [Visualizing where people run in Chapel Hill, Durham, and Raleigh](http://www.newmediacampaigns.com/blog/visualizing-most-popular-running-routes-in-chapel-hill-durham-and-raleigh)
 
